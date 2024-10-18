@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 /* ------------------------------- Components ------------------------------- */
 import GameZone from "../../molecules/game-zone";

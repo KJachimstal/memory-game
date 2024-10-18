@@ -1,5 +1,3 @@
-import React from "react";
-
 /* ---------------------------------- Utils --------------------------------- */
 import classNames from "classnames";
 

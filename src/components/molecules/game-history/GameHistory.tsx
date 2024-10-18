@@ -1,5 +1,3 @@
-import React from "react";
-
 /* ------------------------------- Components ------------------------------- */
 import Stat from "../../atoms/stat";
 
